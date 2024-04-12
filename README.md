@@ -1,4 +1,4 @@
-# Analytical-SQL-Sales-Project
+# Online-Retail-Analytical-SQl-Project
 The project aims to analyze the data of an Online Retail Store to gather some insights and make Monetary model for customers behavior for product purchasing and segment each customer using Analytical SQL 
 ## The flow of the project is as the following:
 1.Data was ingested into Oracle DBMs.  
